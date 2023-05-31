@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-mortgage-calculator/static/css/main.abd64e84.css",
+    "main.js": "/react-mortgage-calculator/static/js/main.5881467b.js",
+    "index.html": "/react-mortgage-calculator/index.html",
+    "main.abd64e84.css.map": "/react-mortgage-calculator/static/css/main.abd64e84.css.map",
+    "main.5881467b.js.map": "/react-mortgage-calculator/static/js/main.5881467b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.5881467b.js"
+  ]
+}
